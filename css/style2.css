@@ -1,0 +1,92 @@
+/* CSS Document */
+
+body{margin: 0 auto; width:960px; background-color:#caa66f; border:#261c13 5px solid; }
+
+nav{background-color:#5b4837; width:960px; height:40px; margin: 0 auto;}
+header{background-color:#e0d4bc; height:110px;font-family:Gautami;padding-top:15px;}
+
+#list{border: 2px black solid; border-radius:5px;}
+
+#home2{margin-top:10px;}
+
+li{float:left; color:white;   width:158px; height:40px;  text-align:center;  font-size:18px;  text-decoration:none; border-right: 2px solid black;}
+#fix{float:left; color:white;width:158px; height:20px;  text-align:center;  font-size:12px; opacity:0.7; text-decoration:none;}
+
+#fix2{background-color:#5b4837; width:960px; height:20px; margin: 0 auto;}
+
+li:hover{opacity:1.0; background-color:#caa66f;}
+#fix:hover{opacity:1.0;}
+html{ background-color:#927549;}
+
+#font{font-size:33px; text-align:justify; font-weight:bold; margin-left:30px;}
+
+
+#all{ width:330px; padding:5px; background-color:#e0d4bc;margin-bottom:10px; float:right; margin-right:25px; text-align:left; box-shadow: 0 0 10px #000; -moz-box-shadow: 0 0x 10px #000; -webkit-box-shadow: 0 0 10px #000; margin-top:30px; clear:both;}
+
+#special{text-align:justify; width:300px;}
+
+#back{ background-color:#5b4837; color:white; padding:2px; border: 2px black solid;  }
+
+#back:hover{background-color:#caa66f;}
+
+
+h4{font-size:20px; font-weight:bold; padding:5px; font-family:Gautami; width:400px;margin-left:150px;  }
+
+h2{font-size:18px; padding:5px; width:400px; margin-left:150px; font-family:Gautami; }
+
+a:hover{cursor:pointer;}
+
+footer{background-color:#e0d4bc;  margin-top:38px; clear:both; border: solid 2px black;}
+
+a{text-decoration:none; color:black;}
+
+li,p{ 
+-webkit-transition:all .5s;
+-o-transition:all .5s;
+-moz-transition:all .5s;
+transition:all .5s;}
+
+#text{text-align:center;}
+
+p:hover{opacity:1.0;}
+
+.dog_left{margin-top:-45px; border:0px;}
+
+#logo{margin-left:300px; margin-top:-70px;}
+/* CSS Document */
+
+img{border: 2px black solid;}
+
+h6{float:right; width:300px; margin-top:20px; margin-left:-100px; padding:10px; font-size:20px;}
+
+#big{ margin-left:150px; width:400px; height:400px;}
+
+H1{text-align:center; font-size:45px; font-family:"Lucida Calligraphy";}
+
+#home2{margin-top:10px;font-family:Gautami;}
+
+#bold{font-weight:bold;}
+
+span{font-weight:bold;}
+
+#placement{ margin-top:-55px; margin-left:10px;}
+
+#no{border: 0px;}
+
+#right{float:right; margin-top:-95px; width:250px; font-size:12px; margin-right:-10px; text-align:justify;}
+
+h5{ font-size:18px; font-weight:bold; text-align:center;font-family:Gautami;}
+
+#address{width:135px; float:right;}
+
+/*@media  ( min-width:320px) and (max-width:420px){
+	
+	
+	h6{  font-size:12px;}
+	header{font-size:10px;}
+	nav{width:45px;}
+	li{width:45px;}
+	#big{width:100px; height:100px;}
+}*/
+
+

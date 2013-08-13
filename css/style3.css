@@ -1,0 +1,149 @@
+/* CSS Document */
+
+body{margin: 0 auto; width:960px; background-color:#caa66f; box-shadow: 0 0 20px #000; -moz-box-shadow: 0 0x 20px #000; -webkit-box-shadow: 0 0 20px #000;}
+
+nav{background-color:#5b4837; width:960px; height:40px; margin: 0 auto;}
+header{background-color:#e0d4bc; height:110px;padding-top:15px;font-family:Gautami; font-weight:bold;}
+
+#list{border: 2px black solid; border-radius:5px;}
+
+li{float:left; color:white;   width:158px; height:40px;  text-align:center;  font-size:18px;  text-decoration:none; border-right: 2px solid black;}
+
+li:hover{opacity:1.0; background-color:#caa66f;}
+
+#home2{margin-top:10px;font-family:Gautami;}
+
+html{ background-color:#5b4837;}
+
+form{ margin-left:125px;}
+
+#field{margin-left:430px;}
+#field2{margin-left:20px;}
+
+#form2{ margin-left:120px;}
+
+#center{margin-left:430px;}
+
+#lil{margin-left:5px;}
+
+#font{font-size:33px; text-align:justify;}
+
+h4{font-size:24px; font-weight:bold; padding:5px; text-align:center;font-family:Gautami;}
+
+h2{font-size:14px; padding:5px;font-family:Gautami;}
+
+H1{text-align:center; font-size:45px; margin-left:-60px;font-family:"Lucida Calligraphy";}
+
+a:hover{cursor:pointer;}
+
+footer{background-color:#e0d4bc; clear:both; border-top: 2px solid black;}
+
+a{text-decoration:none; color:black;}
+
+h3{font-weight:bold; font-size:18px; text-align:center;font-family:Gautami; m}
+
+li,form{ 
+-webkit-transition:all .5s;
+-o-transition:all .5s;
+-moz-transition:all .5s;
+transition:all .5s;}
+
+#text{text-align:center;}
+
+form:hover{opacity:1.0;}
+
+#right{float:right; margin-top:-95px; width:250px; font-size:12px; margin-right:-10px; text-align:justify;}
+
+#logo{margin-left:300px; margin-top:-70px;}
+
+#pics{border: 2px black solid;}
+
+#placement{ margin-top:-50px; margin-left:10px;}
+
+#info{background-color:#e0d4bc;}
+
+span{font-weight:bold;}
+
+#address{width:135px; float:right;}
+
+#move{float:right; background-color:#927549; padding:4px; border:2px solid black; text-align:center;}
+
+#move:hover{ color:white;text-align:center;}
+
+label {width: 300px;float: left;display: block;text-align: right;margin-right: 5px;font-size:14px;font-weight:bold;}
+
+#name_error{color:#910303;}
+
+#breed_error{color:#910303;}
+
+#price_error{color:#910303;}
+
+#description_error{color:#910303;}
+
+#big_error{color:#910303;}
+
+#small_error{color:#910303;}
+
+#admin_error{color:#910303;}
+
+#pass_error{color:#910303;}
+
+#newtitle_error{color:#910303;}
+
+#newdate_error{color:#910303;}
+
+#newbreed_error{color:#910303;}
+
+#newpub_error{color:#910303;}
+
+#newbod_error{color:#910303;}
+
+#button{margin-left:305px;}
+
+#log{margin-left:310px;}
+
+#logout{background-color:#927549; padding:4px; border:2px solid black; text-align:center; margin-left:80px;}
+
+#logout2{background-color:#927549; padding:4px; border:2px solid black; text-align:center; margin-right:400px; margin-top:-40px; float:right;}
+
+#logout:hover{color:white;text-align:center;}
+#logout2:hover{color:white;text-align:center;}
+
+#moveleft{text-align:center; padding-bottom:8px; width:300px; float:left; margin-top:-195px; margin-left:20px;}
+
+#just{text-align:justify;}
+
+#title{font-size:20px; font-weight:bold; text-align:center;}
+
+#date{float:right;}
+
+
+
+article{width:800px;margin: 0 auto; font-size:20px;}
+
+#bodytext{text-align:justify;text-indent:50px; border-bottom:solid 3px black; padding-bottom:10px; line-height:150%;}
+
+#fix{float:left; color:white;width:158px; height:20px;  text-align:center;  font-size:12px; opacity:0.7; text-decoration:none;}
+
+#fix2{background-color:#5b4837; width:960px; height:20px; margin: 0 auto;}
+#fix:hover{opacity:1.0;}
+
+textarea{height:100px;}
+#art{width:350px; float:left; margin-left:80px; font-size:25px;}
+#news{ float:right; margin-right:80px;   box-shadow: 0 0 10px #000; -moz-box-shadow: 0 0x 10px #000; -webkit-box-shadow: 0 0 10px #000;}
+
+#back{ background-color:#927549; padding:2px; border: 2px black solid; margin-left:434px;}
+
+#back:hover{color:white;}
+
+#all{ background-color:#927549; padding:2px; border: 2px black solid; margin-left:430px;}
+
+#all:hover{color:white;}
+
+#sum{margin-left:305px;}
+
+#publish{font-size:12px; color:#333;}
+
+#breeds{font-size:12px;}
+
+#date{font-size:14px;}
